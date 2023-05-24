@@ -44,7 +44,7 @@
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=e25254&show_icons=true&theme=city_lights&hide_border=true&layout=compact">
       <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=e25254&show_icons=true&theme=material-palenight&hide_border=true&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=e25254&show_icons=true&theme=material-palenight&hide_border=true&layout=compact&bg_color=283145"
       alt="e25254"
       align="left"
       />
