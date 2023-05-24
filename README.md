@@ -28,7 +28,7 @@
   <p>
       &nbsp;
       <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=material-palenight&hide_border=true&bg_color=00000000"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=material-palenight&hide_border=true&background=45%2C00000000%2C00000000"
       alt="e25254"
       align="center"
       />
