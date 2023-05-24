@@ -18,7 +18,7 @@
 
   <p>
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=e25254&show_icons=true&theme=prussian&hide_border=true&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=e25254&show_icons=true&theme=nord&hide_border=true&bg_color=00000000">
       <img
         src="https://github-readme-stats.vercel.app/api?username=e25254&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000"
         alt="e25254"
@@ -42,7 +42,7 @@
   
   <p>
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=e25254&show_icons=true&theme=buefy&hide_border=true&layout=compact">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=e25254&show_icons=true&theme=nord&hide_border=true&layout=compact">
       <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=e25254&show_icons=true&theme=material-palenight&hide_border=true&layout=compact"
       alt="e25254"
@@ -54,7 +54,7 @@
   <p>
       &nbsp;
       <picture>
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=prussian&hide_border=true&background=00000000">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=nord&hide_border=true&background=00000000">
           <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=material-palenight&hide_border=true&background=00000000"
           alt="e25254"
