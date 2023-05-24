@@ -9,6 +9,7 @@
       />
   </p>
   <p>
+      &nbsp;
       <img
       alt="Night Coding"
       src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
@@ -26,9 +27,10 @@
       />
   </p>
   <p>
+      &nbsp;
       <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=material-palenight&hide_border=true"
       alt="e25254"
-      align="right"
+      align="center"
       />
   </p>
