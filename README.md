@@ -2,11 +2,14 @@
 
 
   <p>
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github-readme-stats.vercel.app/api?username=e25254&show_icons=true&theme=buefy&hide_border=true)">
       <img
-      src="https://github-readme-stats.vercel.app/api?username=e25254&show_icons=true&theme=material-palenight&hide_border=true"
-      alt="e25254"
-      align="left"
-      />
+        src="https://github-readme-stats.vercel.app/api?username=e25254&show_icons=true&theme=material-palenight&hide_border=true"
+        alt="e25254"
+        align="left"
+        />
+    </picture>
   </p>
   <p>
       &nbsp;
