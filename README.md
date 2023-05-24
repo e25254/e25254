@@ -2,24 +2,32 @@
 
 <div>
   <div style="display:flex;justify-content:space-between;align:center;">
-    <img
+    <div>
+      <img
       src="https://github-readme-stats.vercel.app/api?username=e25254&show_icons=true&theme=material-palenight&hide_border=true"
       alt="e25254"
-    />
-    <img
+      />
+    </div>
+    <div>
+      <img
       alt="Night Coding"
       src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
-    />
+      />
+    </div>
   </div>
 
   <div style="display:flex;justify-content:space-between;align:center;">
-    <img
+    <div>
+      <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=e25254&show_icons=true&theme=material-palenight&hide_border=true&layout=compact"
       alt="e25254"
-    />
-    <img
+      />
+    </div>
+    <div>
+      <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=material-palenight&hide_border=true"
       alt="e25254"
-    />
+      />
+    </div>
   </div>
 </div>
