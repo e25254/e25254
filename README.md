@@ -18,7 +18,7 @@
 
   <p>
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=e25254&show_icons=true&theme=city_lights&hide_border=true&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=e25254&show_icons=true&theme=city_lights&hide_border=false&bg_color=00000000&border_color=5C8CB2">
       <img
         src="https://github-readme-stats.vercel.app/api?username=e25254&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000"
         alt="e25254"
