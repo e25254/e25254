@@ -12,12 +12,15 @@
     </picture>
   </p>
   <p>
-      &nbsp;
-      <img
-      alt="Night Coding"
-      src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
-      align="center"
-      />
+    &nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+        <img
+        alt="Night Coding"
+        src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+        align="center"
+        />
+     </picture> 
   </p>
   
   
