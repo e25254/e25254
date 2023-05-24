@@ -32,7 +32,7 @@
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
         <img
         alt="Night Coding"
-        src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+        src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://github.com/e25254/e25254/assets/110010285/ced4b8a8-5a49-45cf-bf6a-dd0e9709141b)"
         align="center"
         />
      </picture> 
