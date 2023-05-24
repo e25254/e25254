@@ -1,11 +1,12 @@
 <p>
-  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture>
+  <picture><img align="left"  src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture>
 </p>
 <p>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=7956D5&background=2D2B5200&vCenter=true&height=40&lines=+Hi+%2C+I+am+Jerry+Jie;+Welcome+to+my+github+!">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=BB85E3&background=2D2B5200&vCenter=true&height=40&lines=+Hi+%2C+I+am+Jerry+Jie;+Welcome+to+my+github+!"
+       align="center"
      />
   </picture>
 </p>
