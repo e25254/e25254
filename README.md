@@ -1,6 +1,5 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=e25254&show_icons=true&theme=buefy&hide_border=true">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=BB85E3&background=2D2B5200&vCenter=true&height=40&lines=+Hi+%2C+I+am+Jerry+Jie;+Welcome+to+my+github+!)](https://git.io/typing-svg)
 </picture>
 
