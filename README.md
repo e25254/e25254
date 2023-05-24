@@ -54,7 +54,7 @@
   <p>
       &nbsp;
       <picture>
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=city_lights&hide_border=true&background=00000000">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=city_lights&hide_border=false&background=00000000&border_color=5C8CB2">
           <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=material-palenight&hide_border=true&background=00000000"
           alt="e25254"
