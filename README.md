@@ -6,13 +6,11 @@
       src="https://github-readme-stats.vercel.app/api?username=e25254&show_icons=true&theme=material-palenight&hide_border=true"
       alt="e25254"
       align="left"
-      style="vertical-align: middle;"
       />
       <img
       alt="Night Coding"
       src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
       align="right"
-      style="vertical-align: middle;"
       />
   </div>
 
@@ -23,13 +21,11 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=e25254&show_icons=true&theme=material-palenight&hide_border=true&layout=compact"
       alt="e25254"
       align="left"
-      style="vertical-align: middle;"
       />
       <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=material-palenight&hide_border=true"
       alt="e25254"
       align="right"
-      style="vertical-align: middle;"
       />
   </div>
 </div>
