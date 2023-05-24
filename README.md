@@ -8,5 +8,5 @@
 
 <p align="justify">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=e25254&theme=material-palenight&hide_border=true" alt="e25254" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=e25254&show_icons=true&theme=material-palenight&hide_border=true&layout=compact" style="height:195px" alt="e25254" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=e25254&show_icons=true&theme=material-palenight&hide_border=true&layout=compact" alt="e25254" />
 </p>
