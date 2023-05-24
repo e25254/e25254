@@ -34,6 +34,7 @@
         alt="Night Coding"
         src="https://github.com/e25254/e25254/assets/110010285/ced4b8a8-5a49-45cf-bf6a-dd0e9709141b"
         align="center"
+        width=200px
         />
      </picture> 
   </p>
